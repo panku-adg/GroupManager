@@ -3,8 +3,8 @@
 
 # GroupManager
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/panku-adg/GroupManager
-)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/panku-adg/GroupManager)
+
 A modular Telegram Python bot running on python3 with an sqlalchemy database.
 
 Can be found on telegram as [GroupManager](https://t.me/tg_groupmanagerbot).
